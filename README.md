@@ -1,5 +1,4 @@
 <h1 text-align="center">Projeto do Site da Barbearia Alura</h1>
-![banner](https://user-images.githubusercontent.com/104032557/180005339-9c900479-9c96-48d8-95b9-2af8b237c02e.jpg)
 
 
 > Este projeto foi desenvolvido por Jean, seguindo as orientações do instrutor da Alura, Pedro Marins.
